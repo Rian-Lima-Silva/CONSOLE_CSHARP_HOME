@@ -1,0 +1,15 @@
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\obj\Debug\net6.0\Projeto02.csproj.AssemblyReference.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\obj\Debug\net6.0\Projeto02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\obj\Debug\net6.0\Projeto02.AssemblyInfoInputs.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\obj\Debug\net6.0\Projeto02.AssemblyInfo.cs
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\obj\Debug\net6.0\Projeto02.csproj.CoreCompileInputs.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\bin\Debug\net6.0\Projeto02.exe
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\bin\Debug\net6.0\Projeto02.deps.json
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\bin\Debug\net6.0\Projeto02.runtimeconfig.json
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\bin\Debug\net6.0\Projeto02.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\bin\Debug\net6.0\Projeto02.pdb
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\obj\Debug\net6.0\Projeto02.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\obj\Debug\net6.0\refint\Projeto02.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\obj\Debug\net6.0\Projeto02.pdb
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\obj\Debug\net6.0\Projeto02.genruntimeconfig.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP\Auto_Estudo\Projeto02\obj\Debug\net6.0\ref\Projeto02.dll
