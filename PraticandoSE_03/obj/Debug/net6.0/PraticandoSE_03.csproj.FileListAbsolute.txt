@@ -1,0 +1,15 @@
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\bin\Debug\net6.0\PraticandoSE_03.exe
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\bin\Debug\net6.0\PraticandoSE_03.deps.json
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\bin\Debug\net6.0\PraticandoSE_03.runtimeconfig.json
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\bin\Debug\net6.0\PraticandoSE_03.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\bin\Debug\net6.0\PraticandoSE_03.pdb
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\obj\Debug\net6.0\PraticandoSE_03.csproj.AssemblyReference.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\obj\Debug\net6.0\PraticandoSE_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\obj\Debug\net6.0\PraticandoSE_03.AssemblyInfoInputs.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\obj\Debug\net6.0\PraticandoSE_03.AssemblyInfo.cs
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\obj\Debug\net6.0\PraticandoSE_03.csproj.CoreCompileInputs.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\obj\Debug\net6.0\PraticandoSE_03.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\obj\Debug\net6.0\refint\PraticandoSE_03.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\obj\Debug\net6.0\PraticandoSE_03.pdb
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\obj\Debug\net6.0\PraticandoSE_03.genruntimeconfig.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoSE_03\obj\Debug\net6.0\ref\PraticandoSE_03.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PraticandoSE_03/1.0.0": {
+        "runtime": {
+          "PraticandoSE_03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PraticandoSE_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
