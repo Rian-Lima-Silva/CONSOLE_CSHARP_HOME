@@ -6,6 +6,20 @@ namespace PraticandoVETORES_01
     {
         static void Main(string[] args)
         {
+             /* [NÚMERO DE POSIÇÕES] dentro dos colchetes está o número de posições que o vetor possui
+             Sem isso o programa não pode inicializar, pois não sabera quantas posições tem ´w assim ele não
+             poderá reservar um espaço na memoria para esse vetor*/
+
+            /*Ao declarar uma posição especifica é necessario, Variavel[Posição]
+             Ex: int[] Num=new int[3];
+               num[0]=12; 
+               isso é igual a:variavel num, posição 0, recebe doze(12);
+               num[1]=15
+               num[2]=20
+             */
+
+            /*CHAMANDO VETORES: para chamar os vetores é necessario seguir */
+            
             //1º FORMA DE DECLARAÇÃO
             int[] n=new int[5]; //<- vetor inicia em 0 ate 4
             
