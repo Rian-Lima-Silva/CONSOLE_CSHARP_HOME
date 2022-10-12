@@ -1,0 +1,15 @@
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\obj\Debug\net6.0\PraticandoLOGIN.csproj.AssemblyReference.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\obj\Debug\net6.0\PraticandoLOGIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\obj\Debug\net6.0\PraticandoLOGIN.AssemblyInfoInputs.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\obj\Debug\net6.0\PraticandoLOGIN.AssemblyInfo.cs
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\obj\Debug\net6.0\PraticandoLOGIN.csproj.CoreCompileInputs.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\bin\Debug\net6.0\PraticandoLOGIN.exe
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\bin\Debug\net6.0\PraticandoLOGIN.deps.json
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\bin\Debug\net6.0\PraticandoLOGIN.runtimeconfig.json
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\bin\Debug\net6.0\PraticandoLOGIN.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\bin\Debug\net6.0\PraticandoLOGIN.pdb
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\obj\Debug\net6.0\PraticandoLOGIN.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\obj\Debug\net6.0\refint\PraticandoLOGIN.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\obj\Debug\net6.0\PraticandoLOGIN.pdb
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\obj\Debug\net6.0\PraticandoLOGIN.genruntimeconfig.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\obj\Debug\net6.0\ref\PraticandoLOGIN.dll
