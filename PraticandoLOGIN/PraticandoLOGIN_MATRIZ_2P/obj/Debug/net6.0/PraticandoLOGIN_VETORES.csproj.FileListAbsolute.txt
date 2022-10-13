@@ -1,0 +1,15 @@
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\bin\Debug\net6.0\PraticandoLOGIN_VETORES.exe
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\bin\Debug\net6.0\PraticandoLOGIN_VETORES.deps.json
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\bin\Debug\net6.0\PraticandoLOGIN_VETORES.runtimeconfig.json
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\bin\Debug\net6.0\PraticandoLOGIN_VETORES.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\bin\Debug\net6.0\PraticandoLOGIN_VETORES.pdb
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\obj\Debug\net6.0\PraticandoLOGIN_VETORES.csproj.AssemblyReference.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\obj\Debug\net6.0\PraticandoLOGIN_VETORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\obj\Debug\net6.0\PraticandoLOGIN_VETORES.AssemblyInfoInputs.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\obj\Debug\net6.0\PraticandoLOGIN_VETORES.AssemblyInfo.cs
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\obj\Debug\net6.0\PraticandoLOGIN_VETORES.csproj.CoreCompileInputs.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\obj\Debug\net6.0\PraticandoLOGIN_VETORES.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\obj\Debug\net6.0\refint\PraticandoLOGIN_VETORES.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\obj\Debug\net6.0\PraticandoLOGIN_VETORES.pdb
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\obj\Debug\net6.0\PraticandoLOGIN_VETORES.genruntimeconfig.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_VETORES\obj\Debug\net6.0\ref\PraticandoLOGIN_VETORES.dll
