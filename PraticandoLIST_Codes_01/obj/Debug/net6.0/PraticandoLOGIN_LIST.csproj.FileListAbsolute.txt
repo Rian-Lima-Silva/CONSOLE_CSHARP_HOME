@@ -1,0 +1,15 @@
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\bin\Debug\net6.0\PraticandoLOGIN_LIST.exe
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\bin\Debug\net6.0\PraticandoLOGIN_LIST.deps.json
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\bin\Debug\net6.0\PraticandoLOGIN_LIST.runtimeconfig.json
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\bin\Debug\net6.0\PraticandoLOGIN_LIST.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\bin\Debug\net6.0\PraticandoLOGIN_LIST.pdb
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\obj\Debug\net6.0\PraticandoLOGIN_LIST.csproj.AssemblyReference.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\obj\Debug\net6.0\PraticandoLOGIN_LIST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\obj\Debug\net6.0\PraticandoLOGIN_LIST.AssemblyInfoInputs.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\obj\Debug\net6.0\PraticandoLOGIN_LIST.AssemblyInfo.cs
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\obj\Debug\net6.0\PraticandoLOGIN_LIST.csproj.CoreCompileInputs.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\obj\Debug\net6.0\PraticandoLOGIN_LIST.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\obj\Debug\net6.0\refint\PraticandoLOGIN_LIST.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\obj\Debug\net6.0\PraticandoLOGIN_LIST.pdb
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\obj\Debug\net6.0\PraticandoLOGIN_LIST.genruntimeconfig.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\PraticandoLOGIN\PraticandoLOGIN_LIST\obj\Debug\net6.0\ref\PraticandoLOGIN_LIST.dll
