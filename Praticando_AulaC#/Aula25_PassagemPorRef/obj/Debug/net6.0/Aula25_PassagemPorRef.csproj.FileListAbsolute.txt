@@ -1,0 +1,15 @@
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\bin\Debug\net6.0\Aula25_PassagemPorRef.exe
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\bin\Debug\net6.0\Aula25_PassagemPorRef.deps.json
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\bin\Debug\net6.0\Aula25_PassagemPorRef.runtimeconfig.json
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\bin\Debug\net6.0\Aula25_PassagemPorRef.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\bin\Debug\net6.0\Aula25_PassagemPorRef.pdb
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\obj\Debug\net6.0\Aula25_PassagemPorRef.csproj.AssemblyReference.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\obj\Debug\net6.0\Aula25_PassagemPorRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\obj\Debug\net6.0\Aula25_PassagemPorRef.AssemblyInfoInputs.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\obj\Debug\net6.0\Aula25_PassagemPorRef.AssemblyInfo.cs
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\obj\Debug\net6.0\Aula25_PassagemPorRef.csproj.CoreCompileInputs.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\obj\Debug\net6.0\Aula25_PassagemPorRef.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\obj\Debug\net6.0\refint\Aula25_PassagemPorRef.dll
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\obj\Debug\net6.0\Aula25_PassagemPorRef.pdb
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\obj\Debug\net6.0\Aula25_PassagemPorRef.genruntimeconfig.cache
+C:\Users\limac\Downloads\Rian Lima\VSCode\CSHARP2\Auto_Estudo\Praticando_AulaC#\Aula25_PassagemPorRef\obj\Debug\net6.0\ref\Aula25_PassagemPorRef.dll
